@@ -15,7 +15,7 @@ describe('Math', () => {
     })
 
     it('should return true', () => {
-      Assert.equal(null, null)
+      Assert.equal('', null)
     })
   })
 })
